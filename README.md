@@ -1,4 +1,4 @@
-# 🧮 Декодер помехоустойчивого БЧХ-кода с длиной 89
+# Декодер помехоустойчивого БЧХ-кода с длиной 89
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Wolfram Mathematica](https://img.shields.io/badge/Wolfram_Mathematica-DD1100?style=flat&logo=WolframMathematica&logoColor=white)
